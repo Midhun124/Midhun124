@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Midhun124
+- 👀 I’m interested in Web Development and Python development.
+- 🌱 I’m currently learning Python programming language and web development using Python frameworks like Django and Flask.
+- 💞️ I’m looking to collaborate on open-source projects related to Python and web development.
+- 📫 How to reach me: You can reach me on LinkedIn.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Did you know that Python is named after the comedy series Monty Python's Flying Circus and not the snake?
